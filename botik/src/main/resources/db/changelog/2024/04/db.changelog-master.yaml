@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: botik/src/main/resources/db/changelog/20-01-changelog.yaml
